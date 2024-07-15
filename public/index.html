@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example Domain</title>
+</head>
+<body>
+    <h1>Example Domain</h1>
+    <button id="change-text-button">Click me to change text</button>
+    <script>
+        document.getElementById('change-text-button').addEventListener('click', function() {
+            document.querySelector('h1').textContent = 'New Heading Text';
+        });
+    </script>
+</body>
+</html>
