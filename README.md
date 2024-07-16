@@ -4,23 +4,41 @@ This repository contains end-to-end tests for a sample web application using Cyp
 ## Project Structure
 
 e2e-testing-sample/
-|-- cypress/
+
+├── cypress/
+
 │   ├── e2e/
+
 │   │   ├── example.cy.js
+
 │   ├── fixtures/
+
 │   │   └── example.json
+
 │   ├── support/
+
 │   │   ├── commands.js
+
 │   │   └── e2e.js
+
 ├── node_modules/
+
 │   └── [Many dependencies]
+
 ├── public/
+
 │   └── index.html
+
 ├── cypress.config.js
+
 ├── package-lock.json
+
 ├── package.json
+
 ├── server.js
+
 └── README.md
+
 
 ## Setup
 1. Clone the repository:
