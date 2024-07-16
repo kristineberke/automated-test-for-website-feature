@@ -5,14 +5,16 @@ This repository contains tests for a simple web application using Cypress.
 1. Clone the repository:
    
    git clone https://github.com/your-username/automated-test-for-website-feature.git
+
+[change your-username accordingly]
    
    cd automated-test-for-website-feature
    
-2. Install dependencies:
+3. Install dependencies:
    
    npm install
    
-3. Start the server:
+4. Start the server:
    
    npm start
    
