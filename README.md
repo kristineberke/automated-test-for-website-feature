@@ -1,5 +1,5 @@
-# End-to-End Testing Sample
-This repository contains end-to-end tests for a sample web application using Cypress.
+# Automated Test for a Website Feature
+This repository contains tests for a simple web application using Cypress.
 
 ## Setup
 1. Clone the repository:
