@@ -4,9 +4,9 @@ This repository contains tests for a simple web application using Cypress.
 ## Setup
 1. Clone the repository:
    
-   git clone https://github.com/your-username/e2e-testing-sample.git
+   git clone https://github.com/your-username/automated-test-for-website-feature.git
    
-   cd e2e-testing-sample
+   cd automated-test-for-website-feature
    
 2. Install dependencies:
    
@@ -22,7 +22,7 @@ This repository contains tests for a simple web application using Cypress.
    
 5. Check if you have the correct directory
 
-   cd e2e-testing-sample
+   cd automated-test-for-website-feature
    
 6. Open Cypress to run tests:
     
@@ -33,7 +33,7 @@ This repository contains tests for a simple web application using Cypress.
 
 ## Project Structure
 
-e2e-testing-sample/
+automated-test-for-website-feature/
 
 ├── cypress/
 
