@@ -6,13 +6,9 @@ This repository contains end-to-end tests for a sample web application using Cyp
 e2e-testing-sample/
 
 ├── cypress/
-
 │   ├── e2e/
-
 │   │   ├── example.cy.js
-
 │   ├── fixtures/
-
 │   │   └── example.json
 
 │   ├── support/
