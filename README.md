@@ -4,7 +4,7 @@ This repository contains end-to-end tests for a sample web application using Cyp
 ## Project Structure
 
 e2e-testing-sample/
-├── cypress/
+|-- cypress/
 │   ├── e2e/
 │   │   ├── example.cy.js
 │   ├── fixtures/
